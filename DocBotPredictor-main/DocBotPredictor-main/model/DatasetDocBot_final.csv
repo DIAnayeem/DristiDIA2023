@@ -1,0 +1,564 @@
+Patients,"Clouldy, blurry or foggy vision",Pressure in Eye?,Injury to the Eye,Excessive dryness,Red eye,Cornea increase in size,Color Identifying Problem,Double Vision,Have eye problem in family,40+ age,Diabetics,Myopia,Trouble with glasses,Hard to see at night,Visible Whiteness,Mass pain,Vomiting,Water drops from eyes continuously,Presents of light when eye lid close,Result/Outcome
+Alam,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,Oculer hypertension
+Kadir,1,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,Catracts
+Farid,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,Catracts
+Rahim,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,Bulgy Vision
+Barsha,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,Glaucoma ACG
+Rifah,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Glaucoma ACG
+Mashrar,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,Catracts
+Oporajita,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,Congenital Glaucoma
+Saliha,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Bulgy Vision
+eva,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,Glaucoma ACG
+karim,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Bulgy Vision
+kadir,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bulgy Vision
+Rafiq,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Bulgy Vision
+Robiul,0,1,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,Bulgy Vision
+Afrah,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Bulgy Vision
+Rekha,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,Bulgy Vision
+Sonali,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,Bulgy Vision
+Bibha,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,Bulgy Vision
+Ahnaf,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Bulgy Vision
+Rafi,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,Bulgy Vision
+fahim,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,Bulgy Vision
+Anik,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,Bulgy Vision
+sabbir,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Bulgy Vision
+Abir,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,Bulgy Vision
+mahir,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,Bulgy Vision
+Atif,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,Oculer hypertension
+Shourav,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Ashik,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Asfi,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Prottasha,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,Oculer hypertension
+Musarrat,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+tanha,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Sam,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rohan,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,Oculer hypertension
+SIAM,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Rakib,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Alif,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Fardin,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Tasfin,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Nabil,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Swapnil,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Nayeem,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Rahat,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Munif,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Maruf,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Manik,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Mia,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Ratin,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Anotr,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Jolil,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,Oculer hypertension
+Rafa,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,Oculer hypertension
+Kabi,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Runa,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Kabir,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Imran,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,Oculer hypertension
+Surovi,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+"	Arpi",0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Muntaha,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Anuva,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Sayeda,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Jennifer,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Soshi,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Hridi,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Shabrina,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Luzain,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Mehajabin,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Tripty,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Alavee,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Tazy Farzana,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Nazia,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Ishika,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Safina,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Naomi,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rafia,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Irani,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,Oculer hypertension
+Fariha,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Fahima,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Nishi,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Phaki,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,Oculer hypertension
+Lamia,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Raha,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Roki,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Samia,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Hbiba,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Omar,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Emon,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rajib,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Partha,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Sumon,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Abu jubaer,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Mohammad,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Siyam,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Rafique,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+jahid,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Nadim,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Noor,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Palash,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Fardin,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Irani,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Fariha,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Sanjana,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Sadia iqbal,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+loli,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Eblehe,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Namrata,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Farah,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Ririko,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Ishita,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Purbita,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Flora,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Roni,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Hasan,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Alamgir,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Mahi,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Asma,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rafsan,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Juban,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Tanim,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Swapnil,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Nayeem,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rahat,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Munif,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+eva,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+karim,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+kadir,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Rafiq,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Robiul,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Afrah,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rekha,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Sonali,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Bibha,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+Ahnaf,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rafi,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+fahim,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Nadim,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Noor,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Palash,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Fardin,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Irani,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Fariha,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Sanjana,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Sadia iqbal,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rifon,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Loknath,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Akkas,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Kamran,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Afridi,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Narayon,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Nuri,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Nurjahan,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Nazifa,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Munira,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Sumaiya,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Sadiya,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rihaa,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+kafi,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+sohag,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+sapla,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+roton,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+mohesh,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+sulaiman,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+mortuja,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+sadia iqbal,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+"	rupkatha",0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Labiba,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Aurpie,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Noor,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Muhaiminul,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Eshita,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Hriddhi,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Dina,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Maaryam,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+voodoo doll,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,Oculer hypertension
+Sharmin,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Farhan,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+Tahira,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Afroz,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Oculer hypertension
+"	Palki",0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+moyna,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+tuni,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Saliha,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Oculer hypertension
+eva,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+karim,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+kadir,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rafiq,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Robiul,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Afrah,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rekha,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Sonali,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Bibha,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Ahnaf,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Rafi,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+fahim,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+Anik,0,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Oculer hypertension
+sabbir,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0, Bulgy Vision
+Abir,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0, Bulgy Vision
+mahir,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0, Bulgy Vision
+Atif,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0, Bulgy Vision
+Shourav,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0, Bulgy Vision
+Ashik,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0, Bulgy Vision
+Asfi,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0, Bulgy Vision
+Prottasha,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0, Bulgy Vision
+Musarrat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0, Bulgy Vision
+tanha,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0, Bulgy Vision
+Sam,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0, Bulgy Vision
+Rohan,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0, Bulgy Vision
+SIAM,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0, Bulgy Vision
+Rakib,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0, Bulgy Vision
+Alif,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0, Bulgy Vision
+Fardin,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0, Bulgy Vision
+Tasfin,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, Bulgy Vision
+Nabil,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0, Bulgy Vision
+Swapnil,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0, Bulgy Vision
+Nayeem,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0, Bulgy Vision
+Rahat,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, Bulgy Vision
+Munif,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0, Bulgy Vision
+Maruf,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0, Bulgy Vision
+Manik,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0, Bulgy Vision
+Mia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Catracts
+Ratin,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Catracts
+Anotr,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Catracts
+Moriom,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Catracts
+Rodela,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Catracts
+flora,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Catracts
+Purbita,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Catracts
+Ishita,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,Catracts
+ririko,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Catracts
+Farah,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Catracts
+Namrata,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Catracts
+eblehe,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Catracts
+loli,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Catracts
+Sadia iqbal,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,Catracts
+Sanjana,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,Catracts
+Fariha,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Irani,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Catracts
+Rafia,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,Catracts
+Naomi,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,Catracts
+Safina,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,Catracts
+Ishika,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Catracts
+Nazia,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,Catracts
+Tazy Farzana,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Catracts
+forida,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Roki,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Catracts
+Samia,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Catracts
+Hbiba,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,Catracts
+Omar,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,Catracts
+Emon,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Catracts
+Rajib,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,Catracts
+Partha,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,Catracts
+Sumon,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Abu jubaer,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Catracts
+Mohammad,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,Catracts
+Siyam,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,Catracts
+Rafique,1,1,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,Catracts
+jahid,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,1,0,0,Catracts
+Nadim,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,Catracts
+Noor,1,1,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,1,0,Catracts
+Palash,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0,0,Catracts
+Fardin,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Irani,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Catracts
+Fariha,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Sanjana,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Sadia iqbal,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+loli,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,Catracts
+Eblehe,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Namrata,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Farah,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Ririko,1,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,Catracts
+Ishita,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Purbita,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Flora,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Roni,1,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Hasan,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Alamgir,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Mahi,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Asma,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Rafsan,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Saidul,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sohel,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sayed,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+arman,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+zawad,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Avishek,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Mishkat,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,Catracts
+Omar,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Emon,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Rajib,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Partha,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Catracts
+Sumon,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Maaryam,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+voodoo doll,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sharmin,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,Catracts
+Farhan,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Tahira,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Afroz,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+"	Palki",1,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,Catracts
+moyna,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+tuni,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Saliha,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+eva,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+karim,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+kadir,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rafiq,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Robiul,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Afrah,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Rekha,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sonali,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Bibha,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Ahnaf,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Rafi,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+fahim,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Anik,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,Catracts
+sabbir,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Abir,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+mahir,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Khijir,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Catracts
+"	Seaam",1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+moula,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Joy,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+KHAWAJA,1,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,Catracts
+Riad,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+"	Rakibul",1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+mehrab,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rubel,1,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Taufiq,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Kibria,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rahat,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Munif,1,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Maruf,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Manik,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Mia,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Ratin,1,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Anotr,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Jolil,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rafa,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Kabi,0,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Runa,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Kabir,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Imran,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Surovi,1,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,Catracts
+"	Arpi",1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Muntaha,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Anuva,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sayeda,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,Catracts
+Jennifer,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Soshi,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Hridi,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Shabrina,1,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,Catracts
+Luzain,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Mehajabin,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Tripty,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Alavee,1,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Tazy Farzana,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Nazia,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Ishika,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Safina,1,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+loli,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Sadia iqbal,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sanjana,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Fariha,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Irani,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Rafia,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Naomi,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Safina,0,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Ishika,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Nazia,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Tazy Farzana,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+forida,1,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Roki,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Samia,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Hbiba,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Omar,1,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Emon,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rajib,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Partha,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sumon,1,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Abu jubaer,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Mohammad,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Siyam,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rafique,1,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,Catracts
+jahid,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Nadim,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Noor,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Palash,1,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Fardin,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Irani,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Fariha,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sanjana,1,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sadia iqbal,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+loli,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Eblehe,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Namrata,0,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Farah,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Ririko,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Afsana,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rekha,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Sonali,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Bibha,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+Ahnaf,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rafi,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+fahim,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Nadim,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+Noor,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Palash,1,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Fardin,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Irani,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Fariha,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sanjana,1,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Sadia iqbal,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rifon,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Loknath,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Akkas,1,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Kamran,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Afridi,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Narayon,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Nuri,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Nurjahan,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Nazifa,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Munira,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sumaiya,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sadiya,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rihaa,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+kafi,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+sohag,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+sapla,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+roton,1,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,Catracts
+mohesh,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+sulaiman,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+mortuja,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+sadia iqbal,1,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,Catracts
+"	rupkatha",1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Labiba,1,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Aurpie,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Noor,1,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Catracts
+Muhaiminul,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Eshita,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Hriddhi,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Dina,1,0,1,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,Catracts
+Maaryam,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+voodoo doll,1,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Sharmin,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Farhan,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Tahira,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Afroz,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+"	Palki",1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+moyna,1,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+tuni,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Saliha,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+eva,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+karim,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+kadir,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,Catracts
+Rafiq,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Congenital Glaucoma
+Robiul,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Congenital Glaucoma
+Afrah,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Congenital Glaucoma
+Rekha,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Congenital Glaucoma
+Sonali,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Congenital Glaucoma
+Bibha,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,Congenital Glaucoma
+Ahnaf,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,Congenital Glaucoma
+Rafi,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,Congenital Glaucoma
+Mahi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Congenital Glaucoma
+Asma,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,Congenital Glaucoma
+Rafsan,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,Congenital Glaucoma
+Saidul,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,Congenital Glaucoma
+Sohel,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,Congenital Glaucoma
+Sayed,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,Congenital Glaucoma
+arman,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,Congenital Glaucoma
+zawad,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,Congenital Glaucoma
+Avishek,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,Congenital Glaucoma
+Mishkat,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Congenital Glaucoma
+Omar,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,Congenital Glaucoma
+Emon,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,Congenital Glaucoma
+Rajib,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,Congenital Glaucoma
+Partha,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,Congenital Glaucoma
+Sumon,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,Congenital Glaucoma
+Maaryam,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,Congenital Glaucoma
+voodoo doll,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,Congenital Glaucoma
+Sharmin,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,Congenital Glaucoma
+Farhan,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,Congenital Glaucoma
+Tahira,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,1,1,Congenital Glaucoma
+Afroz,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,Congenital Glaucoma
+"	Palki",0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,1,1,Congenital Glaucoma
+moyna,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,Congenital Glaucoma
+tuni,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,1,Congenital Glaucoma
+Saliha,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Congenital Glaucoma
+eva,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Congenital Glaucoma
+karim,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,Congenital Glaucoma
+kadir,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,Congenital Glaucoma
+Rafiq,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,Congenital Glaucoma
+Robiul,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Congenital Glaucoma
+Afrah,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,Congenital Glaucoma
+Rekha,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,Congenital Glaucoma
+Sonali,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Congenital Glaucoma
+Bibha,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Congenital Glaucoma
+Ahnaf,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,Congenital Glaucoma
+Rafi,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,Congenital Glaucoma
+fahim,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Congenital Glaucoma
+Anik,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,Congenital Glaucoma
+sabbir,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,Congenital Glaucoma
+Abir,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,Congenital Glaucoma
+mahir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Congenital Glaucoma
+Khijir,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,Congenital Glaucoma
+"	Seaam",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,Congenital Glaucoma
+moula,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,Congenital Glaucoma
+Joy,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,Congenital Glaucoma
+KHAWAJA,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,Congenital Glaucoma
+Riad,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,Congenital Glaucoma
+"	Rakibul",0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,1,Congenital Glaucoma
+mehrab,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Glaucoma ACG
+Rubel,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Glaucoma ACG
+Taufiq,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Glaucoma ACG
+Kibria,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Glaucoma ACG
+Alam,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Glaucoma ACG
+Kadir,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Glaucoma ACG
+Farid,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Glaucoma ACG
+Rahim,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,Glaucoma ACG
+Barsha,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Glaucoma ACG
+Rifah,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Glaucoma ACG
+Mashrar,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Glaucoma ACG
+Oporajita,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,Glaucoma ACG
+Saliha,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Glaucoma ACG
+eva,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,Glaucoma ACG
+karim,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,Glaucoma ACG
+kadir,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,Glaucoma ACG
+Rafiq,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Glaucoma ACG
+Robiul,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Glaucoma ACG
+Afrah,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Glaucoma ACG
+Rekha,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Glaucoma ACG
+Sonali,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,Glaucoma ACG
+Bibha,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,Glaucoma ACG
+Ahnaf,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,Glaucoma ACG
+Rafi,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,Glaucoma ACG
+fahim,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,Glaucoma ACG
+Anik,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Glaucoma ACG
+sabbir,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,Glaucoma ACG
+Abir,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,Glaucoma ACG
+mahir,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,Glaucoma ACG
+Atif,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,Glaucoma ACG
+Shourav,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,Glaucoma ACG
+Ashik,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,0,Glaucoma ACG
+Asfi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Glaucoma ACG
+Prottasha,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Glaucoma ACG
+Musarrat,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Glaucoma ACG
+tanha,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,Glaucoma ACG
+Sam,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Glaucoma ACG
+Rohan,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,Glaucoma ACG
+SIAM,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Glaucoma ACG
+Rakib,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,Glaucoma ACG
+Alif,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Glaucoma ACG
+Fardin,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Glaucoma ACG
+Tasfin,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,Glaucoma ACG
+Nabil,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Glaucoma ACG
+Swapnil,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,Glaucoma ACG
+Nayeem,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,Glaucoma ACG
+Rahat,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,Glaucoma ACG
+Munif,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,Glaucoma ACG
+Maruf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Glaucoma ACG
+Manik,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Glaucoma ACG
+Mia,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,Glaucoma ACG
+Ratin,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,Glaucoma ACG
+Anotr,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,Glaucoma ACG
+Rekha,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,Glaucoma ACG
+Sonali,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,Glaucoma ACG
+Bibha,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,0,Glaucoma ACG

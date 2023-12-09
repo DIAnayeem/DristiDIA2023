@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"  href="/static/style.css">
+    <link rel="shortcut icon" href="/static/favicon.ico" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <title>DocBot Predictor</title>
+</head>
+<body>
+    <div class='signup-container'>
+        <div class='left-container'>
+          <div class="overlay">
+            <img src="/static/giphy.gif" alt="">
+          </div>
+          <h1>
+           
+          <img src="/static/docbotlogo.png" alt="DocBot">
+          </h1>
+          <div class="result">
+            <div class="h3">Posssible disease</div>
+            <div class="disease" data-about="A cataract is a dense, cloudy area that forms in the lens of the eye. A cataract begins when proteins in the eye form clumps that prevent the lens from sending clear images to the retina. The retina works by converting the light that comes through the lens into signals. It sends the signals to the optic nerve, which carries them to the brain.">
+             Submit symptoms to see possible disease
+            </div>
+            <div class="short-description" id='short_description'>
+             Submitting the form will show some info about possible disease here, clicking the below buttons will show info about causes,symptoms,diagnosis of the possible diease.
+            </div>
+            <div class="actions">
+              <div class='set'>
+                
+                <div class='pets-spayed-neutered'>
+                  <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+               
+                  <div class='radio-container'>
+                    <span class="yes">
+                      <label > <a target="_blank" href="https://www.healthline.com/health/cataract#causes" id="causes">Causes</a></label>
+                    </span>
+                  </div>
+                </div>
+                  <div class='pets-spayed-neutered'>
+                    <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+                 
+                    <div class='radio-container'>
+                      <span class="yes">
+                        <label ><a target="_blank" href="https://www.healthline.com/health/cataract#diagnosis" id='Diagnosis'>Diagnosis</a></label>
+                      </span>
+                    </div>
+                  </div>
+
+              <div class='pets-spayed-neutered'>
+                <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+             
+                <div class='radio-container'>
+                  <span class="yes">
+                    <label ><a target="_blank" href="https://www.healthline.com/health/cataract#treatments" id='Treatments'>Treatments</a></label>
+                  </span>
+                </div>
+              </div>
+              <div class='pets-spayed-neutered'>
+                <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+             
+                <div class='radio-container'>
+                  <span class="yes">
+                    <label > <a target="_blank" href="https://www.healthline.com/health/cataract#symptoms" id='symptomps'>More symptoms</a></label>
+                  </span>
+                </div>
+              </div>
+              <div class='pets-spayed-neutered'>
+                <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+             
+                <div class='radio-container'>
+                  <span class="yes">
+                    <label > <a target="_blank" href="https://www.healthline.com/health/cataract#symptoms" id='learnmore'>Learn More...</a></label>
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            
+            </div>
+          </div>
+          <!-- <div class='puppy'>
+            <img src='/static/eyeArt.png'>
+          </div> -->
+        </div>
+        <div class='right-container'>
+          <header>
+            <h1>Please submit your symptomps in the form below:</h1>
+            <form action="http://127.0.0.1:4200/predict" id="eyeParams" method="POST">
+            <div class='set'>
+              <div class='pets-name'>
+                <label for='pets-name'>Name</label>
+                <input id='pets-name' placeholder="Your Name"  type='text'>
+              </div>
+              <div class='pets-breed'>
+                <label for='age40'>Age</label>
+                <input id='age40' placeholder="Your age" required type='number' name="age40">
+              </div>
+              
+            </div>
+            <div class="boxes">
+
+           
+            <div class='set'>
+                
+                <div class='pets-spayed-neutered'>
+                    <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+                 
+                    <div class='radio-container'>
+                      <span class="yes">
+                        <input id='clouldy__blurry_or_foggy_vision' name='clouldy__blurry_or_foggy_vision' type='radio' value='0'>
+                        <label for='clouldy__blurry_or_foggy_vision'>Blurry or foggy or cloudy vision</label>
+                      </span>
+                      
+                    </div>
+                  </div>
+              <div class='pets-spayed-neutered'>
+               
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='pressure_in_eye' name='pressure_in_eye' type='radio' value='0'>
+                    <label for='pressure_in_eye'>Pain or pressure in eyes</label>
+                  </span>
+                </div>
+              </div>
+
+              
+              
+            </div>
+            <div class='set'>
+                
+                <div class='pets-spayed-neutered'>
+                   
+                 
+                    <div class='radio-container'>
+                      <span class="yes">
+                        <input  id='injury_to_the_eye' name='injury_to_the_eye' type='radio' value='0'>
+                        <label for='injury_to_the_eye'>injury to the eye</label>
+                      </span>
+                      
+                    </div>
+                  </div>
+              <div class='pets-spayed-neutered'>
+               
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='excessive_dryness' name='excessive_dryness' type='radio' value='0'>
+                    <label for='excessive_dryness'>excessive dryness</label>
+                  </span>
+                </div>
+              </div>
+
+              <div class='pets-spayed-neutered'>
+                <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+             
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input id='red_eye' name='red_eye' type='radio' value='0'>
+                    <label for='red_eye'>red eye</label>
+                  </span>
+                  
+                </div>
+              </div>
+              <div class='pets-spayed-neutered'>
+                <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+             
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='myopia' name='myopia' type='radio' value='0'>
+                    <label for='myopia'>myopia</label>
+                  </span>
+                  
+                </div>
+              </div>
+            </div>
+            <div class='set'>
+                
+                
+              <div class='pets-spayed-neutered'>
+               
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='cornea_increase_in_size' name='cornea_increase_in_size' type='radio' value='0'>
+                    <label for='cornea_increase_in_size'>cornea increase in size</label>
+                  </span>
+                </div>
+              </div>
+
+              <div class='pets-spayed-neutered'>
+                <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+             
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input id='color_identifying_problem' name='color_identifying_problem' type='radio' value='0'>
+                    <label for='color_identifying_problem'>color identifying problem</label>
+                  </span>
+                  
+                </div>
+              </div>
+              
+            </div>
+            <div class='set'>
+                
+                
+              <div class='pets-spayed-neutered'>
+               
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='double_vision' name='double_vision' type='radio' value='0'>
+                    <label for='double_vision'>double vision</label>
+                  </span>
+                </div>
+              </div>
+
+              <div class='pets-spayed-neutered'>
+                <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+             
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='have_eye_problem_in_family' name='have_eye_problem_in_family' type='radio' value='0'>
+                    <label for='have_eye_problem_in_family'>have eye problem in family</label>
+                  </span>
+                  
+                </div>
+              </div>
+              <div class='pets-spayed-neutered'>
+                
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='diabetics' name='diabetics' type='radio' value='0'>
+                    <label for='diabetics'>diabetes</label>
+                  </span>
+                </div>
+              </div>
+              
+            </div>
+            <div class='set'>
+                
+               
+             
+             
+              <div class='pets-spayed-neutered'>
+                
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='vomiting' name='vomiting' type='radio' value='0'>
+                    <label for='vomiting'>vomiting</label>
+                  </span>
+                </div>
+              </div>
+              <div class='pets-spayed-neutered'>
+            
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='mass_pain' name='mass_pain' type='radio' value='0'>
+                    <label for='mass_pain'>mass pain</label>
+                  </span>
+                </div>
+              </div>
+              <div class='pets-spayed-neutered'>
+                
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='presents_of_light_when_eye_lid_close' name='presents_of_light_when_eye_lid_close' type='radio' value='0'>
+                    <label for='presents_of_light_when_eye_lid_close'>presents of light when eye lid close</label>
+                  </span>
+                </div>
+              </div>
+
+            </div>
+            <div class='set'>
+                
+               
+              <div class='pets-spayed-neutered'>
+               
+                <div class='radio-container'>
+                  <span class="yes">
+                    <input  id='trouble_with_glasses' name='trouble_with_glasses' type='radio' value='0'>
+                    <label for='trouble_with_glasses'>trouble with glasses</label>
+                  </span>
+                </div>
+              </div>
+              <div class='pets-spayed-neutered'>
+                    <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+                 
+                    <div class='radio-container'>
+                      <span class="yes">
+                        <input  id='water_drops_from_eyes_continuously' name='water_drops_from_eyes_continuously' type='radio' value='0'>
+                        <label for='water_drops_from_eyes_continuously'>continuous water drops from eyes</label>
+                      </span>
+                      
+                    </div>
+                  </div>
+              
+              
+              
+            </div><div class='set'>
+               
+                <div class='pets-spayed-neutered'>
+                    <!-- <label for='pet-spayed'>Blurry or foggy vision</label> -->
+                 
+                    <div class='radio-container'>
+                      <span class="yes">
+                        <input id='hard_to_see_at_night' name='hard_to_see_at_night' type='radio' value='0'>
+                        <label for='hard_to_see_at_night'>hard to see at night or in dark</label>
+                      </span>
+                      
+                    </div>
+                  </div>
+                  <div class='pets-spayed-neutered'>
+               
+                    <div class='radio-container'>
+                      <span class="yes">
+                        <input  id='visible_whiteness' name='visible_whiteness' type='radio' value='0'>
+                        <label for='visible_whiteness'>visible whiteness </label>
+                      </span>
+                    </div>
+                  </div>
+                  </div>
+           
+          
+
+        </div>
+
+            
+
+          </header>
+          <footer>
+            <div class='set'>
+                <input type="submit" id='back'>
+
+             
+            </div>
+        </form>
+          </footer>
+        </div>
+      </div>
+      <script src="/static/deseaseInfo.js"></script>
+      <script src="/static/script.js"></script>
+</body>
+</html>
